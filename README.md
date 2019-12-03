@@ -1,6 +1,7 @@
-# vue-tags-input
+# vue-tags
 
 A tags input component for VueJS with autocompletion, custom validation, templating and much more
+(a fork of JohMun's vue-tags-input
 
 [Demo & Docs](http://www.vue-tags-input.com)
 
